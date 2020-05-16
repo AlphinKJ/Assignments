@@ -1,0 +1,5 @@
+print("Hello World! Lets Play Madlib game")
+color=input("\nENTER COLOR: \n")
+pluralNoun=input("\nENTER PLURAL NOUN: \n")
+celebrity=input("\nENTER CELEBRITY: \n")
+print("Roses are "+color+"\n"+pluralNoun+" are blue\nI love "+celebrity+"\n")
